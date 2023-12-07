@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at the Institute for Social Sciences at 
+I am a PhD student at the Institute for Social Sciences at 
 Osnabrück University.
 
 My interests span a range of topics in Comparative Politics. 
