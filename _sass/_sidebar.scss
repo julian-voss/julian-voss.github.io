@@ -9,7 +9,8 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-
+          
+          
   @include clearfix();
   margin-bottom: 1em;
 
@@ -83,7 +84,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 400px;
     border-radius: 50%;
 
     @include breakpoint($large) {
