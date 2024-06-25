@@ -3,50 +3,159 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Working Paper
 
 ### Political Purges and Social Ties: Evidence From Denazification
+
 <details>
+
 <summary>Abstract</summary>
-<p align=justify>How do social ties between administrators and defendants affect the implementation of personnel transitional justice policies? To address issues of inherited personnel, countries undergoing transitions from autocratic rule frequently implement mechanisms like purges or criminal trials. While a considerable number of studies investigates the consequences of these policies, less is known about factors that shape their implementation. Building on insights from administration research, I analyze how differences in social ties shape the outcomes of a mass purge by drawing on data of approx. 50000 denazification trials from British occupied Nazi Germany. I investigate the effects of two different forms of ties: social identity and networks. I leverage variation regarding the level of ties between administrators and defendants resulting from the delegation of denazification to German authorities and defendants' different migratory backgrounds. My results point to an ambivalent effect of ties in the context of transitional justice policies: while identity ties lead to more lenient ruling, network ties seem to have the opposite effect. The study's findings shed new light on transitional justice and the persistence of political personnel in the shadow of dictatorship. </p>
+
+<p align="justify">
+
+How do social ties between administrators and defendants affect the
+implementation of personnel transitional justice policies? To address
+issues of inherited personnel, countries undergoing transitions from
+autocratic rule frequently implement mechanisms like purges or criminal
+trials. While a considerable number of studies investigates the
+consequences of these policies, less is known about factors that shape
+their implementation. Building on insights from administration research,
+I analyze how differences in social ties shape the outcomes of a mass
+purge by drawing on data of approx. 50000 denazification trials from
+British occupied Nazi Germany. I investigate the effects of two
+different forms of ties: social identity and networks. I leverage
+variation regarding the level of ties between administrators and
+defendants resulting from the delegation of denazification to German
+authorities and defendants' different migratory backgrounds. My results
+point to an ambivalent effect of ties in the context of transitional
+justice policies: while identity ties lead to more lenient ruling,
+network ties seem to have the opposite effect. The study's findings shed
+new light on transitional justice and the persistence of political
+personnel in the shadow of dictatorship.
+
+</p>
+
+</details>
+
+### <a href="https://osf.io/ekwun/" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>)
+
+<details>
+
+<summary>Abstract</summary>
+
+<p align="justify">
+
+This study investigates how individual beliefs regarding punitive
+transitional justice measures shape the support for policies of
+remembrance. While previous research on transitional justice has
+predominantly focused on its immediate consequences, less is known about
+long-term consequences and the potential for unintended side-effects. We
+investigate such potential "hidden long-term costs" of punitive
+transitional justice in the case of the Denazification of Germany after
+WWII. We implement an online survey in a sample of approx. 2000 German
+voters. To assess the effect of different perceptions regarding the
+extent of punitive transitional justice, we (1) manipulate respondents'
+beliefs regarding the degree to which Nazi perpetrators have been
+sanctioned through Denazification in a survey experiment and (2) exploit
+historical variation in the intensity of Denazification across former
+occupation zones.
+
+</p>
+
 </details>
 
 ### <a href="https://osf.io/9szm7/"  style="text-decoration:none">Right-Wing Terror, Public Backlash, and Voting Preferences for the Far-Right</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a> and <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>)
+
 <details>
+
 <summary>Abstract</summary>
-<p align=justify>How does right-wing political violence affect electoral support for populist radical right parties? Recent research has produced contrary answers to this question: right-wing violence can fuel right-wing support in some instances and reduce it in others. We exploit a natural experiment to explain this heterogeneity. Drawing on high-frequency survey data before and after the most intense terrorist attack in recent German history we show that right-wing terror reduced support for the right-wing populist party
-Alternative für Deutschland - a finding we replicate in a controlled survey experiment. Additional analyses of survey data,
-media content, and social media posts show that the negative effect of right-wing violence is a function of a public backlash that links radical right party platforms to the violence. Our findings help to better understand the conditions under which political violence triggers partisan detachment and have important implications for media responsibility in the aftermath of right-wing violence. </p>
+
+<p align="justify">
+
+How does right-wing terrorism affect electoral support for populist radical right parties
+(PRRP)? Recent research has produced contrary answers to this question. We argue that
+only high-profile attacks, whose motives and targets mirror PRRPs’ nativist agenda are likely
+to generate a media backlash that dampens electoral support for PRRPs. We test this argu-
+ment combining high-frequency survey and social media data with a natural and survey
+experimental design. We find that right-wing terror reduced support for the right-wing
+populist party Alternative für Deutschland after one of the most intense nativist attacks in
+recent German history. A case comparison with three other high-profile attacks and an
+analysis of all 98 fatal right-wing attacks in Germany between 1990 and 2020 support our
+argument. Our findings help to understand how political violence triggers partisan detach-
+ment and have important implications for media responsibility in the aftermath of terrorist
+attacks.
+
+</p>
+
 </details>
 
 ### Information about Corruption and Voting Behavior: Evidence from a Natural Experiment in Germany
+
 <details>
+
 <summary>Abstract</summary>
-<p align=justify>How do voters respond to information about corruption? Research investigating electoral responses to corruption has thus far generated mixed results and research in this area generally faces a number of methodological problems. While observational studies linking aggregate corruption levels and political behavior usually raise concerns about endogeneity, experimental methods may suffer from problems like social desirability bias or a lack of external validity. In this paper, I bypass these issues by analyzing a natural experiment generated by a corruption scandal around the procurement of face masks during the COVID-19 pandemic in Germany. I exploit the differential exposure to the corruption scandal of mail and ballot-box voters prior to a major regional election in a difference-in-differences design. Comparing electoral outcomes across mail and ballot-box electorates in 1109 municipalities over time, I find that corruption leads to a reduction of the affected party's vote share of approximately 5\% in the exposed electorate. Furthermore, I find similar effects for the party's coalition partner indicating that corruption may produce negative spillovers for other incumbent parties. This study sheds new light on corruption and voting behavior by showing that misconduct by public officials can produce substantive electoral responses that have the potential to move well beyond an affected party. </p>
+
+<p align="justify">
+
+How do voters respond to information about corruption? Research
+investigating electoral responses to corruption has thus far generated
+mixed results and research in this area generally faces a number of
+methodological problems. While observational studies linking aggregate
+corruption levels and political behavior usually raise concerns about
+endogeneity, experimental methods may suffer from problems like social
+desirability bias or a lack of external validity. In this paper, I
+bypass these issues by analyzing a natural experiment generated by a
+corruption scandal around the procurement of face masks during the
+COVID-19 pandemic in Germany. I exploit the differential exposure to the
+corruption scandal of mail and ballot-box voters prior to a major
+regional election in a difference-in-differences design. Comparing
+electoral outcomes across mail and ballot-box electorates in 1109
+municipalities over time, I find that corruption leads to a reduction of
+the affected party's vote share of approximately 5% in the exposed
+electorate. Furthermore, I find similar effects for the party's
+coalition partner indicating that corruption may produce negative
+spillovers for other incumbent parties. This study sheds new light on
+corruption and voting behavior by showing that misconduct by public
+officials can produce substantive electoral responses that have the
+potential to move well beyond an affected party.
+
+</p>
+
 </details>
 
 ## Work in Progress
 
-### Transitional Justice and Support for Policies of Remembrance  (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>)
+### Revisiting History, Reshaping Politics: The Effects of Confronting In-Group Atrocities (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>)
+
 <details>
+
 <summary>Abstract</summary>
-<p align=justify>This study investigates how individual beliefs regarding punitive transitional justice measures shape the support for policies of remembrance. While previous research on transitional justice has predominantly focused on its immediate consequences, less is known about long-term consequences and the potential for unintended side-effects. We investigate such potential “hidden long-term costs” of punitive transitional justice in the case of the Denazification of Germany after WWII. We implement an online survey in a sample of approx. 2000 German voters. To assess the effect of different perceptions regarding the extent of punitive transitional justice, we (1) manipulate respondents’ beliefs regarding the degree to which Nazi perpetrators have been sanctioned through Denazification in a survey experiment and (2) exploit historical variation in the intensity of Denazification across former occupation zones.</p>
+
+<p align="justify">
+
+How do voters react when self-serving collective memories are challenged? We study 
+the controversial first “Wehrmacht Exhibition” (1995–1999), which, for the first time, 
+exposed the German public to gruesome details about war crimes committed by the German 
+military during WWII. The traveling exhibition challenged the ‘myth of the clean
+Wehrmacht’: the widespread but incorrect post-war narrative that Adolf Hitler and the
+Nazi Party alone designed the war of annihilation and that war crimes were only committed 
+by the SS, not by the German military. To study how different segments of the
+electorate reacted to the exhibition, we leverage high-frequency survey data of more than
+160,000 voters in a staggered difference-in-differences setup. We find that the exhibition
+triggered fierce political backlash. The social democratic SPD - the main proponent of the
+exhibition - loses about eight percentage points in electoral support following the opening 
+of the exhibition in a given locality. These results are driven by the sons of WWII
+veterans, especially those cohorts whose fathers were most likely to have been killed in
+action or died as prisoners of war. We support these analyses with qualitative evidence
+drawn from over 1.200 letters to the editor commenting on the exhibition.
+
+</p>
+
 </details>
 
-### Revisiting History, Reshaping Politics: The Effects of Confronting In-Group Atrocities (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>)
-<details>
-<summary>Abstract</summary>
-<p align=justify>We examine the political effects of exposure to in-group atrocities. We study the controversial “Wehrmacht
-Exhibition” (1995–1999), which for the first time exposed the German public to gruesome details about crimes
-committed by the German army during WWII. The traveling exhibition challenged the ‘myth of the clean
-Wehrmacht’: the post-war consensus that Hitler and the Nazi Party alone designed the war of annihilation and
-that war crimes were only committed by the SS. To study how different segments of the electorate reacted to
-the exhibition, we leverage high-frequency survey data of more than 160,000 voters in a staggered difference-
-in-differences setup. Our findings indicate that the exhibition triggered political backlash, particularly among
-younger men who were not eligible for WWII conscription. To examine the mechanisms underlying this result,
-we propose to (1) analyze letters to the editor relating to the exhibition and (2) conduct a contemporary survey
-experiment.</p> </details>
-
-### Does Left-Wing Protest Spark Nationalist Backlash? Evidence from Germany’s 1968 Student Movement
+### Does Left-Wing Protest Spark Nationalist Backlash? Evidence from Germany's 1968 Student Movement
