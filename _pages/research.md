@@ -69,6 +69,34 @@ occupation zones.
 
 </details>
 
+### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Politics: The Effects of Confronting In-Group Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>)
+
+<details>
+
+<summary>Abstract</summary>
+
+<p align="justify">
+
+How do voters react when self-serving collective memories are challenged? We study 
+the controversial first “Wehrmacht Exhibition” (1995–1999), which, for the first time, 
+exposed the German public to gruesome details about war crimes committed by the German 
+military during WWII. The traveling exhibition challenged the ‘myth of the clean
+Wehrmacht’: the widespread but incorrect post-war narrative that Adolf Hitler and the
+Nazi Party alone designed the war of annihilation and that war crimes were only committed 
+by the SS, not by the German military. To study how different segments of the
+electorate reacted to the exhibition, we leverage high-frequency survey data of more than
+160,000 voters in a staggered difference-in-differences setup. We find that the exhibition
+triggered fierce political backlash. The social democratic SPD - the main proponent of the
+exhibition - loses about eight percentage points in electoral support following the opening 
+of the exhibition in a given locality. These results are driven by the sons of WWII
+veterans, especially those cohorts whose fathers were most likely to have been killed in
+action or died as prisoners of war. We support these analyses with qualitative evidence
+drawn from over 1.200 letters to the editor commenting on the exhibition.
+
+</p>
+
+</details>
+
 ### <a href="https://osf.io/9szm7/"  style="text-decoration:none">Right-Wing Terror, Public Backlash, and Voting Preferences for the Far-Right</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a> and <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>)
 
 <details>
@@ -129,33 +157,5 @@ potential to move well beyond an affected party.
 </details>
 
 ## Work in Progress
-
-### Revisiting History, Reshaping Politics: The Effects of Confronting In-Group Atrocities (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>)
-
-<details>
-
-<summary>Abstract</summary>
-
-<p align="justify">
-
-How do voters react when self-serving collective memories are challenged? We study 
-the controversial first “Wehrmacht Exhibition” (1995–1999), which, for the first time, 
-exposed the German public to gruesome details about war crimes committed by the German 
-military during WWII. The traveling exhibition challenged the ‘myth of the clean
-Wehrmacht’: the widespread but incorrect post-war narrative that Adolf Hitler and the
-Nazi Party alone designed the war of annihilation and that war crimes were only committed 
-by the SS, not by the German military. To study how different segments of the
-electorate reacted to the exhibition, we leverage high-frequency survey data of more than
-160,000 voters in a staggered difference-in-differences setup. We find that the exhibition
-triggered fierce political backlash. The social democratic SPD - the main proponent of the
-exhibition - loses about eight percentage points in electoral support following the opening 
-of the exhibition in a given locality. These results are driven by the sons of WWII
-veterans, especially those cohorts whose fathers were most likely to have been killed in
-action or died as prisoners of war. We support these analyses with qualitative evidence
-drawn from over 1.200 letters to the editor commenting on the exhibition.
-
-</p>
-
-</details>
 
 ### Does Left-Wing Protest Spark Nationalist Backlash? Evidence from Germany's 1968 Student Movement
