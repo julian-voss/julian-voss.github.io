@@ -258,6 +258,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-analytics
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -302,3 +303,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Analytics
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-V5QJ5XEHQM          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
