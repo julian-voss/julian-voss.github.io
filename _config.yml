@@ -71,10 +71,6 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-google_analytics: G-V5QJ5XEHQM
-
-
 # Site Author
 author:
   name             : "Julian Voss"
