@@ -42,7 +42,7 @@ personnel in the shadow of dictatorship.
 
 </details>
 
-### <a href="https://osf.io/ekwun/" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>)
+### <a href="https://osf.io/ekwun/" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance after Mass Violence</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>)
 
 <details>
 
