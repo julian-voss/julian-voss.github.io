@@ -50,20 +50,7 @@ personnel in the shadow of dictatorship.
 
 <p align="justify">
 
-This study investigates how individual beliefs regarding punitive
-transitional justice measures shape the support for policies of
-remembrance. While previous research on transitional justice has
-predominantly focused on its immediate consequences, less is known about
-long-term consequences and the potential for unintended side-effects. We
-investigate such potential "hidden long-term costs" of punitive
-transitional justice in the case of the Denazification of Germany after
-WWII. We implement an online survey in a sample of approx. 2000 German
-voters. To assess the effect of different perceptions regarding the
-extent of punitive transitional justice, we (1) manipulate respondents'
-beliefs regarding the degree to which Nazi perpetrators have been
-sanctioned through Denazification in a survey experiment and (2) exploit
-historical variation in the intensity of Denazification across former
-occupation zones.
+Prior research suggests that punitive transitional justice (TJ) may foster a sense of collective exoneration among members of perpetrator groups, potentially reducing support for remembrance of ingroup atrocities in the long-term. We employ a two-part empirical strategy to test this potential “hidden cost’’ of TJ in Germany: a vignette experiment manipulating perceptions of the extent of the denazification process and an observational analysis exploiting variance in denazification intensity across occupation zones. Our results reveal that while perceptions of comprehensive Nazi accountability translate into a belief that the entire German in-group has been held accountable, these perceptions do not affect attitudes towards ongoing commemoration or responsibility towards victim groups. Our robust null finding demonstrates that perceptions of justice being served do not undermine support for historical closure on mass violence. These results contribute to the broader literature on TJ’s long-term attitudinal impacts and the determinants of support for historical remembrance, emphasizing the enduring importance of moral over legal perceptions of accountability.
 
 </p>
 
@@ -77,21 +64,7 @@ occupation zones.
 
 <p align="justify">
 
-How do voters react when self-serving collective memories are challenged? We study 
-the controversial first “Wehrmacht Exhibition” (1995–1999), which, for the first time, 
-exposed the German public to gruesome details about war crimes committed by the German 
-military during WWII. The traveling exhibition challenged the ‘myth of the clean
-Wehrmacht’: the widespread but incorrect post-war narrative that Adolf Hitler and the
-Nazi Party alone designed the war of annihilation and that war crimes were only committed 
-by the SS, not by the German military. To study how different segments of the
-electorate reacted to the exhibition, we leverage high-frequency survey data of more than
-160,000 voters in a staggered difference-in-differences setup. We find that the exhibition
-triggered fierce political backlash. The social democratic SPD - the main proponent of the
-exhibition - loses about eight percentage points in electoral support following the opening 
-of the exhibition in a given locality. These results are driven by the sons of WWII
-veterans, especially those cohorts whose fathers were most likely to have been killed in
-action or died as prisoners of war. We support these analyses with qualitative evidence
-drawn from over 1.200 letters to the editor commenting on the exhibition.
+How do voters react to challenges of established collective memories? We study the controversial "Wehrmacht Exhibition'' (1995–1999), which, for the first time, exposed the German public to graphic evidence of WWII war crimes committed by the German military. This traveling exhibition challenged the widespread "myth of the clean Wehrmacht'', the false post-war narrative that only the SS, not the military, systematically committed war crimes and perpetrated the Holocaust. To study how different segments of the electorate reacted to the exhibition, we leverage high-frequency survey data of more than 830,000 voters in a staggered difference-in-differences setup. We complement this analysis with descriptive evidence from over 1.200 letters to the editor. We find that the exhibition triggered political backlash, especially among the sons of WWII soldiers. However, this backlash is localized and short-lived. Our results highlight the conditions under which memory entrepreneurs may challenge established narratives without incurring long-term political costs.
 
 </p>
 
