@@ -131,4 +131,6 @@ potential to move well beyond an affected party.
 
 ## Work in Progress
 
-### Does Left-Wing Protest Spark Nationalist Backlash? Evidence from Germany's 1968 Student Movement
+### Protest and Political Change: Evidence from Germany's 1968 Student Movement
+
+### Regime Loyalty during Wartime: Evidence from Nazi Germany (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>, and <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a>)
