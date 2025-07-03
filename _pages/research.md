@@ -56,7 +56,7 @@ Prior research suggests that punitive transitional justice (TJ) may foster a sen
 
 </details>
 
-### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Politics: The Effects of Confronting In-Group Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>)
+### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Memory: The Effects of Confronting Ingroup Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>)
 
 <details>
 
@@ -64,7 +64,7 @@ Prior research suggests that punitive transitional justice (TJ) may foster a sen
 
 <p align="justify">
 
-How do voters react to challenges of established collective memories? We study the controversial "Wehrmacht Exhibition'' (1995–1999), which, for the first time, exposed the German public to graphic evidence of WWII war crimes committed by the German military. This traveling exhibition challenged the widespread "myth of the clean Wehrmacht'', the false post-war narrative that only the SS, not the military, systematically committed war crimes and perpetrated the Holocaust. To study how different segments of the electorate reacted to the exhibition, we leverage high-frequency survey data of more than 830,000 voters in a staggered difference-in-differences setup. We complement this analysis with descriptive evidence from over 1.200 letters to the editor. We find that the exhibition triggered political backlash, especially among the sons of WWII soldiers. However, this backlash is localized and short-lived. Our results highlight the conditions under which memory entrepreneurs may challenge established narratives without incurring long-term political costs.
+How do voters react to challenges of collective memories? We study the controversial "Wehrmacht exhibition" (1995–1999), which exposed the German public to graphic evidence challenging the ``myth of the clean Wehrmacht'' - the false narrative that only the SS, not the military, systematically committed war crimes and perpetrated the Holocaust. To study the exhibition's effects, we leverage survey data of over 830,000 voters in a staggered difference-in-differences setup. We complement this analysis with evidence from over 1,200 letters to the editor, an original survey of Germans born around the end of WWII, and interviews with public figures who spoke at exhibition openings. We find that the exhibition triggered political backlash, particularly among the children of WWII soldiers. However, this backlash was localized and short-lived. We also show that the exhibition effectively shifted public discourse on the Wehrmacht, demonstrating that memory entrepreneurs can overturn self-serving narratives without lasting political repercussions.
 
 </p>
 
@@ -90,6 +90,20 @@ analysis of all 98 fatal right-wing attacks in Germany between 1990 and 2020 sup
 argument. Our findings help to understand how political violence triggers partisan detach-
 ment and have important implications for media responsibility in the aftermath of terrorist
 attacks.
+
+</p>
+
+</details>
+
+### <a href="https://osf.io/kmnr7/"  style="text-decoration:none">Regime Loyalty during Wartime: Evidence from Nazi Germany</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>, and <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a>)
+
+<details>
+
+<summary>Abstract</summary>
+
+<p align="justify">
+
+Measuring regime support in closed autocracies is notoriously challenging due to preference falsification, state censorship, and pervasive propaganda. We introduce a novel behavioral measure of regime loyalty based on subtle expressions of allegiance in soldier obituaries published in Nazi Germany between 1939 and 1945. Our empirical analysis draws on a large-scale dataset of over one million scanned pages from roughly 160,000 newspaper issues across 260 unique local news outlets. Using Large Language Models for OCR and data labeling, we detect expressions of regime support, such as praise for Hitler, National Socialism, or the Fatherland, in approximately 600,000 obituaries. Our approach yields the first spatially and temporally granular measure of Nazi regime support during World War II. Our descriptive findings nuance the prevailing historical consensus: we find that regime loyalty began to erode immediately following the 1941 invasion of the Soviet Union, not after the Battle of Stalingrad. By contrast, militaristic rhetoric emphasizing soldiers' heroism persisted at high levels throughout the war.
 
 </p>
 
@@ -132,5 +146,3 @@ potential to move well beyond an affected party.
 ## Work in Progress
 
 ### Protest and Political Change: Evidence from Germany's 1968 Student Movement
-
-### Regime Loyalty during Wartime: Evidence from Nazi Germany (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>, and <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a>)
