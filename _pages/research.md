@@ -78,18 +78,7 @@ How do voters react to challenges of collective memories? We study the controver
 
 <p align="justify">
 
-How does right-wing terrorism affect electoral support for populist radical right parties
-(PRRP)? Recent research has produced contrary answers to this question. We argue that
-only high-profile attacks, whose motives and targets mirror PRRPs’ nativist agenda are likely
-to generate a media backlash that dampens electoral support for PRRPs. We test this argu-
-ment combining high-frequency survey and social media data with a natural and survey
-experimental design. We find that right-wing terror reduced support for the right-wing
-populist party Alternative für Deutschland after one of the most intense nativist attacks in
-recent German history. A case comparison with three other high-profile attacks and an
-analysis of all 98 fatal right-wing attacks in Germany between 1990 and 2020 support our
-argument. Our findings help to understand how political violence triggers partisan detach-
-ment and have important implications for media responsibility in the aftermath of terrorist
-attacks.
+How does right-wing terrorism affect electoral support for populist radical right parties (PRRP)? Recent research has produced contrary answers to this question. We argue that only high-intensity attacks, whose motives and targets mirror PRRPs’ nativist agenda are likely to generate a media backlash that dampens electoral support for PRRPs. We test this argument combining high-frequency survey and social media data with a natural and survey experimental design. We find that right-wing terror reduced support for the radical right party Alternative für Deutschland after one of the most intense nativist attacks in recent German history. An analysis of all 98 fatal right-wing attacks in Germany between 1990 and 2020 support our argument. Our findings help to understand how political violence triggers partisan detachment and have important implications for media responsibility in the aftermath of terrorist attacks.
 
 </p>
 
