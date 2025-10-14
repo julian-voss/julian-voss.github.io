@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julian Voss"
+title                    : "Julian Voß"
 title_separator          : "-"
-name                     : &name "Julian Voss"
+name                     : &name "Julian Voß"
 description              : &description "personal description"
 url                      : https://julian-voss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,8 +73,8 @@ social:
 
 # Site Author
 author:
-  name             : "Julian Voss"
-  avatar           : "mugshot.png"
+  name             : "Julian Voß"
+  avatar           : "mugshot_v4.png"
   bio              : "PhD student, Osnabrück University"
   location         : "Osnabrück, Germany"
   employer         :

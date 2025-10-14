@@ -9,6 +9,11 @@ author_profile: true
 
 ---
 
+### Comparative Political Behavior
+
+  -  BA level
+  - Summer term 2025
+
 ### Introduction to Quantitative Conflict Studies
 
   -  MA/BA level
