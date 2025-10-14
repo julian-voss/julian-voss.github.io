@@ -10,7 +10,7 @@ editor_options:
 
 ## Peer-reviewed
 
-### <a href="https://osf.io/ekwun/" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance after Mass Violence</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>). *Comparative Politics*.
+### <a href="https://doi.org/10.5129/001041525X17563217640811" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance after Mass Violence</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>). *Comparative Politics*.
 
 
 <details>
