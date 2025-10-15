@@ -43,7 +43,7 @@ How does right-wing terrorism affect electoral support for populist radical righ
 
 <details>
 
-<summary>Description</summary>
+<summary>Abstract</summary>
 
 <p align="justify">
 
