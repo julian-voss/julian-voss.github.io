@@ -25,7 +25,7 @@ Prior research suggests that punitive transitional justice (TJ) may foster a sen
 
 </details>
 
-### <a href="https://osf.io/9szm7/"  style="text-decoration:none">Right-Wing Terror, Media Backlash, and Voting Preferences for the Far Right</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a> and <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>). Accepted for publication, *British Journal of Political Science*.
+### <a href="https://doi.org/10.1017/S000712342510077X"  style="text-decoration:none">Right-Wing Terror, Media Backlash, and Voting Preferences for the Far Right</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a> and <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>). *British Journal of Political Science*.
 
 <details>
 
@@ -39,7 +39,7 @@ How does right-wing terrorism affect electoral support for populist radical righ
 
 </details>
 
-### German Post-War Election Database (GPWED). Accepted for publication, *Nature: Scientific Data*.
+### <a href="https://www.nature.com/articles/s41597-025-06091-5/"  style="text-decoration:none">German Post-War Election Database (GPWED).</a> *Nature: Scientific Data*.
 
 <details>
 
