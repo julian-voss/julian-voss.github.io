@@ -55,7 +55,7 @@ Historical social science research on the electoral politics of transitional cou
 
 ## Working Paper
 
-### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Memory: The Effects of Confronting Ingroup Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>). R&R, *American Journal of Political Science*.
+### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Memory: The Effects of Confronting Ingroup Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>). Conditionally accepted, *American Journal of Political Science*.
 
 <details>
 
@@ -78,6 +78,20 @@ How do voters react to challenges of collective memories? We study the controver
 <p align="justify">
 
 Measuring regime support in closed autocracies is notoriously challenging due to preference falsification, state censorship, and pervasive propaganda. We introduce a novel behavioral measure of regime loyalty based on subtle expressions of allegiance in soldier obituaries published in Nazi Germany between 1939 and 1945. Our empirical analysis draws on a large-scale dataset of over one million scanned pages from roughly 160,000 newspaper issues across 260 unique local news outlets. Using Large Language Models for OCR and data labeling, we detect expressions of regime support, such as praise for Hitler, National Socialism, or the Fatherland, in approximately 600,000 obituaries. Our approach yields the first spatially and temporally granular measure of Nazi regime support during World War II. Our descriptive findings nuance the prevailing historical consensus: we find that regime loyalty began to erode immediately following the 1941 invasion of the Soviet Union, not after the Battle of Stalingrad. By contrast, militaristic rhetoric emphasizing soldiers' heroism persisted at high levels throughout the war.
+
+</p>
+
+</details>
+
+### <a href="https://osf.io/preprints/socarxiv/wnc46_v1"  style="text-decoration:none">The Electoral Effects of Anti-Authoritarian Protest: Evidence from the West German Student Movement</a>
+
+<details>
+
+<summary>Abstract</summary>
+
+<p align="justify">
+
+How do anti-authoritarian protest movements shape electoral behavior? A recurring concern in both scholarly and public debates is that mobilization against democratic erosion and illiberal political actors may alienate moderates and generate electoral backlash. I examine this question by studying the electoral consequences of the West German student movement of the 1960s, a wave of leftist anti-authoritarian protest directed mainly against the German right. I combine city-level election results, protest event data, and a geo-located pre-election survey. Using a difference-in-differences design, I first show that exposure to protest did not generate electoral backlash at the city level. Instead, protest is associated with a differential increase in support for the center left. Individual-level survey evidence replicates these patterns and suggests that the observed shifts are driven primarily by voters defecting from the center right to the Social Democrats. Additional individual-level analyses provide evidence most consistent with framing effects: protest exposure is associated with a heightened perception of the far-right NPD as an extremist actor and with the belief that the center left was better able to curb political extremism. These findings suggest that anti-authoritarian protest can influence electoral behavior by shaping perceptions of democratic threats and underscore the potential of contentious movements to strengthen pro-democratic forces.
 
 </p>
 
@@ -148,7 +162,3 @@ potential to move well beyond an affected party.
 </p>
 
 </details>
-
-## Work in Progress
-
-### Protest and Political Change: Evidence from Germany's 1968 Student Movement

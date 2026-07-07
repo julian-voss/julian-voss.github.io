@@ -22,7 +22,7 @@ Historical social science research on the electoral politics of transitional cou
 
 </details>
 
-<a href="https://osf.io/preprints/osf/ubjm4" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Article</a>
+<a href="https://doi.org/10.1038/s41597-025-06091-5" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Article</a>
 <a href="https://github.com/julian-voss/gpwed" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
 
 <img src="/images/gpwed.png" alt="Alt Text" style="max-width:40%; height:auto;">
