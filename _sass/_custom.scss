@@ -1,0 +1,24 @@
+/* ==========================================================================
+   CUSTOM
+   ========================================================================== */
+
+/* light grey ring around the profile photo */
+.author__avatar img {
+  @include breakpoint($large) {
+    padding: 4px;
+    border: 2px solid $light-gray;
+  }
+}
+
+/* sidebar icons in the accent color */
+.author__urls {
+  .fa,
+  .fas,
+  .fab,
+  .far,
+  .fal,
+  .ai,
+  .icon-bluesky {
+    color: $accent-color;
+  }
+}
