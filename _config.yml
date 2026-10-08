@@ -304,8 +304,8 @@ compress_html:
     envs: development
 
 
-# Analytics (GA4)
+# Analytics (GoatCounter, cookieless)
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-V5QJ5XEHQM"
+  provider: "goatcounter"
+  goatcounter:
+    code: "julian-voss"            # your GoatCounter site code (<code>.goatcounter.com)
