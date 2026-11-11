@@ -10,7 +10,21 @@ editor_options:
 
 ## Peer-reviewed
 
-### <a href="https://doi.org/10.5129/001041525X17563217640811" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance after Mass Violence</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>). *Comparative Politics*.
+### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Memory: The Effects of Confronting Ingroup Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>). *American Journal of Political Science* (conditionally accepted).
+
+<details>
+
+<summary>Abstract</summary>
+
+<p align="justify">
+
+How do voters react to challenges of collective memories? We study the controversial "Wehrmacht exhibition" (1995–1999), which exposed the German public to graphic evidence challenging the ``myth of the clean Wehrmacht'' - the false narrative that only the SS, not the military, systematically committed war crimes and perpetrated the Holocaust. To study the exhibition's effects, we leverage survey data of over 830,000 voters in a staggered difference-in-differences setup. We complement this analysis with evidence from over 1,200 letters to the editor, an original survey of Germans born around the end of WWII, and interviews with public figures who spoke at exhibition openings. We find that the exhibition triggered political backlash, particularly among the children of WWII soldiers. However, this backlash was localized and short-lived. We also show that the exhibition effectively shifted public discourse on the Wehrmacht, demonstrating that memory entrepreneurs can overturn self-serving narratives without lasting political repercussions.
+
+</p>
+
+</details>
+
+### <a href="https://doi.org/10.5129/001041525X17563217640811" style="text-decoration:none">Transitional Justice and Support for Policies of Remembrance after Mass Violence</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>). *Comparative Politics* 58(2): 127–47.
 
 
 <details>
@@ -25,7 +39,7 @@ Prior research suggests that punitive transitional justice (TJ) may foster a sen
 
 </details>
 
-### <a href="https://doi.org/10.1017/S000712342510077X"  style="text-decoration:none">Right-Wing Terror, Media Backlash, and Voting Preferences for the Far Right</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a> and <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>). *British Journal of Political Science*.
+### <a href="https://doi.org/10.1017/S000712342510077X"  style="text-decoration:none">Right-Wing Terror, Media Backlash, and Voting Preferences for the Far Right</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a> and <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haass</a>). *British Journal of Political Science* 55.
 
 <details>
 
@@ -39,7 +53,7 @@ How does right-wing terrorism affect electoral support for populist radical righ
 
 </details>
 
-### <a href="https://www.nature.com/articles/s41597-025-06091-5/"  style="text-decoration:none">German Post-War Election Database (GPWED).</a> *Nature: Scientific Data*.
+### <a href="https://www.nature.com/articles/s41597-025-06091-5/"  style="text-decoration:none">German Post-War Election Database (GPWED).</a> *Nature: Scientific Data* 12(1): 1698.
 
 <details>
 
@@ -53,23 +67,9 @@ Historical social science research on the electoral politics of transitional cou
 
 </details>
 
-## Working Paper
+## Working Papers
 
-### <a href="https://osf.io/preprints/osf/esh6f"  style="text-decoration:none">Revisiting History, Reshaping Memory: The Effects of Confronting Ingroup Atrocities</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a> and <a href="https://antonpeez.github.io/" style="text-decoration:none">Anton Peez</a>). Conditionally accepted, *American Journal of Political Science*.
-
-<details>
-
-<summary>Abstract</summary>
-
-<p align="justify">
-
-How do voters react to challenges of collective memories? We study the controversial "Wehrmacht exhibition" (1995–1999), which exposed the German public to graphic evidence challenging the ``myth of the clean Wehrmacht'' - the false narrative that only the SS, not the military, systematically committed war crimes and perpetrated the Holocaust. To study the exhibition's effects, we leverage survey data of over 830,000 voters in a staggered difference-in-differences setup. We complement this analysis with evidence from over 1,200 letters to the editor, an original survey of Germans born around the end of WWII, and interviews with public figures who spoke at exhibition openings. We find that the exhibition triggered political backlash, particularly among the children of WWII soldiers. However, this backlash was localized and short-lived. We also show that the exhibition effectively shifted public discourse on the Wehrmacht, demonstrating that memory entrepreneurs can overturn self-serving narratives without lasting political repercussions.
-
-</p>
-
-</details>
-
-### <a href="https://osf.io/kmnr7/"  style="text-decoration:none">Regime Loyalty during Wartime: Evidence from Nazi Germany</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haas</a>, and <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a>)
+### <a href="https://osf.io/kmnr7/"  style="text-decoration:none">Regime Loyalty during Wartime: Evidence from Nazi Germany</a> (with <a href="https://www.alexander-dejuan.de/" style="text-decoration:none">Alexander De Juan</a>, <a href="https://felixhaass.de/" style="text-decoration:none">Felix Haass</a>, and <a href="https://www.saschariaz.com/" style="text-decoration:none">Sascha Riaz</a>)
 
 <details>
 
